@@ -18,5 +18,7 @@ off each line. (Note: Blank lines are always ommitted from the output even if th
 Put your delimiter (comma, pipe, etc.) in the "Delimiter" field, and hit _Convert_ to generate the final delimited string. Then you can click
 "Copy to Clipboard" to copy it straight to your clipboard for pasting.
 
+You can also optionally enter a prefix and suffix.
+
 For example, let's say you want the output to be something like: (value1),(value2),(value3). You'd enter a prefix of "(", enter "),(" as the delimiter, and enter ")"
 as the suffix to get that output.
