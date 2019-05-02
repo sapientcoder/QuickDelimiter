@@ -1,7 +1,7 @@
 # QuickDelimiter
 
-This is a simple tool I threw together that takes column-based data and converts it to delimited data on a single line. You can use it
-to make comma-delimited data, pipe-delimited data, etc.
+This is a simple tool I threw together that takes column-based data and converts it to delimited text on a single line. You can use it
+to make comma-delimited text, pipe-delimited text, or whatever else you need.
 
 The main thing I use it for is copying a lists of values out of database query results and then inserting those into WHERE clauses
 elsewhere. It's just faster for me to use this dedicated tool than doing several keyboard shortcuts in a text editor like Notepad++.
