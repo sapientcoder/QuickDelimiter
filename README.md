@@ -4,7 +4,7 @@ This is a simple tool I threw together that takes column-based data and converts
 to make comma-delimited text, pipe-delimited text, or whatever else you need.
 
 The main thing I use it for is copying a list of values out of database query results and then inserting those into WHERE clauses
-elsewhere. It's just faster for me to use this dedicated tool than doing several keyboard shortcuts in a text editor like Notepad++.
+elsewhere.
 
 ![screen shot of tool](https://yieldreturnpost.files.wordpress.com/2019/05/quickdelimiter.jpg)
 
